@@ -1,0 +1,45 @@
+Program started.............
+Program starts at: 01.26.2024  13.52.03 PM
+Working with confFile: trains_owl.config
+
+User defined parameters:
+ecciAlgorithmVersion: V2
+K1/conceptLimitInNegExpr: 3
+K2/hornClauseLimit: 3
+K3/objPropsCombinationLimit: 3
+K4/conceptLimitInPosExpr: 3
+K5/hornClausesListMaxSize: 50
+K6/candidateClassesListMaxSize: 50
+K7/removeCommonTypes: true
+removeCommonTypesFromOneSideOnly: true
+limitPosTypes: false
+posTypeMinCoverIndivsSize: 1
+limitNegTypes: false
+negTypeMinCoverIndivsSize: 1
+DefaultScoreType: F1_MEASURE
+ReasonerName: pellet
+k8/ValidateByReasonerSize: 0
+posIndivs from conf:
+	east1
+	east5
+	east4
+	east3
+	east2
+negIndivs from conf:
+	west10
+	west6
+	west9
+	west7
+	west8
+objProps from conf:
+	__%!empty%!__
+	loadCount
+	hasShape
+	load
+	hasCar
+	wheels
+Algorithm starts at: 01.26.2024  13.52.03 PM
+Positive individual <kb:east1> not found in the provided ontology. 
+	Program exiting...
+Program ends at: 01.26.2024  13.52.03 PM
+Program duration: 0.298 sec

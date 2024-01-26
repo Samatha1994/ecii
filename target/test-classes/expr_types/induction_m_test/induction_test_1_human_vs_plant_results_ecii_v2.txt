@@ -1,0 +1,25 @@
+Program started.............
+Program starts at: 07.01.2020  20.11.47 PM
+Working with confFile: induction_test_1_human_vs_plant.config
+
+User defined parameters:
+K1/negExprTypeLimit: 1
+K2/hornClauseLimit: 2
+K3/objPropsCombinationLimit: 1
+K4/posExprTypeLimit: 3
+K5/hornClausesListMaxSize: 20
+K6/candidateClassesListMaxSize: 3
+K7/removeCommonTypes: false
+DefaultScoreType: HYBRID
+ReasonerName: pellet
+k8/ValidateByReasonerSize: 0
+k9/posClassListMaxSize: 20
+k10/negClassListMaxSize: 15
+posIndivs from conf:
+	David
+negIndivs from conf:
+	Okra
+objProps from conf:
+	imageContains
+	__%!dop%!__
+Algorithm starts at: 07.01.2020  20.11.47 PM

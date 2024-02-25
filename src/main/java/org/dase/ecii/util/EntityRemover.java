@@ -119,8 +119,8 @@ public class EntityRemover {
         return true;
     }
 
-    static String inputOntoPath = "src/test/resources/expr_types/entity_remover_test/test_remove_topK.owl";
-    static String outputOntoPath = "src/test/resources/expr_types/entity_remover_test/test_remove_topK_cleaned_v1.owl";
+    static String inputOntoPath = "/homes/samatha94/ecii/src/test/resources/expr_types/entity_remover_test/test_remove_topK.owl";
+    static String outputOntoPath = "/homes/samatha94/ecii/src/test/resources/expr_types/entity_remover_test/test_remove_topK_cleaned_v1.owl";
 
     static String[] entityPrefixes = {"<http://www.daselab.org/ontologies/wiki#Main_topic_classification",
             "<http://www.daselab.org/ontologies/wiki#Academic_discipline",

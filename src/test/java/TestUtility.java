@@ -144,7 +144,7 @@ public class TestUtility {
 
         try {
             ConfigParams.parseConfigParams(
-                    "/src/test/resources/expr_types/config_parsing_test/pos_vs_neg_bkg_gene_accuracy_f_measure.config");
+                    "/homes/samatha94/ecii/src/test/resources/expr_types/config_parsing_test/pos_vs_neg_bkg_gene_accuracy_f_measure.config");
 
             HashMap<OWLObjectProperty, Double> hashMap = Utility.readObjectPropsFromConf(objPropPortion, "/");
             logger.info("\n\nObjProperties....");

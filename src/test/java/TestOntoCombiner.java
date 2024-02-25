@@ -28,11 +28,11 @@ public class TestOntoCombiner {
      */
     public void testCombineOntologies() {
         // test1
-        String outputOntoPath = "/src/test/resources/expr_types/onto_combiner_test/combined_1_2.owl";
+        String outputOntoPath = "/homes/samatha94/ecii/src/test/resources/expr_types/onto_combiner_test/combined_1_2.owl";
 
         HashSet<String> inputOntos = new HashSet<>();
-        inputOntos.add("/src/test/resources/expr_types/onto_combiner_test/onto_combiner_input1.owl");
-        inputOntos.add("/src/test/resources/expr_types/onto_combiner_test/onto_combiner_input2.owl");
+        inputOntos.add("/homes/samatha94/ecii/src/test/resources/expr_types/onto_combiner_test/onto_combiner_input1.owl");
+        inputOntos.add("/homes/samatha94/ecii/src/test/resources/expr_types/onto_combiner_test/onto_combiner_input2.owl");
 
 
         OntoCombiner ontoCombiner = new OntoCombiner(null);
@@ -48,11 +48,11 @@ public class TestOntoCombiner {
         ontoCombiner.combineOntologies(outputOntoPath, inputOntos);
 
         // test2
-        outputOntoPath = "/src/test/resources/expr_types/onto_combiner_test/combined_3_4.owl";
+        outputOntoPath = "/homes/samatha94/ecii/src/test/resources/expr_types/onto_combiner_test/combined_3_4.owl";
 
         inputOntos = new HashSet<>();
-        inputOntos.add("/src/test/resources/expr_types/onto_combiner_test/onto_combiner_input3.owl");
-        inputOntos.add("/src/test/resources/expr_types/onto_combiner_test/onto_combiner_input4.owl");
+        inputOntos.add("/homes/samatha94/ecii/src/test/resources/expr_types/onto_combiner_test/onto_combiner_input3.owl");
+        inputOntos.add("/homes/samatha94/ecii/src/test/resources/expr_types/onto_combiner_test/onto_combiner_input4.owl");
 
         ontoCombiner = new OntoCombiner(null);
         // this method worked for class combiner, when the input was
@@ -67,11 +67,11 @@ public class TestOntoCombiner {
         ontoCombiner.combineOntologies(outputOntoPath, inputOntos);
 
         // test3
-        outputOntoPath = "/src/test/resources/expr_types/onto_combiner_test/combined_5_6.owl";
+        outputOntoPath = "/homes/samatha94/ecii/src/test/resources/expr_types/onto_combiner_test/combined_5_6.owl";
 
         inputOntos = new HashSet<>();
-        inputOntos.add("/src/test/resources/expr_types/onto_combiner_test/onto_combiner_input5.owl");
-        inputOntos.add("/src/test/resources/expr_types/onto_combiner_test/onto_combiner_input6.owl");
+        inputOntos.add("/homes/samatha94/ecii/src/test/resources/expr_types/onto_combiner_test/onto_combiner_input5.owl");
+        inputOntos.add("/homes/samatha94/ecii/src/test/resources/expr_types/onto_combiner_test/onto_combiner_input6.owl");
 
         ontoCombiner = new OntoCombiner(null);
         // this method worked for class combiner, when the input was

@@ -1,5 +1,5 @@
 Program started.............
-Program starts at: 01.26.2024  13.52.03 PM
+Program starts at: 01.26.2024  19.29.36 PM
 Working with confFile: trains_owl.config
 
 User defined parameters:
@@ -38,8 +38,4 @@ objProps from conf:
 	load
 	hasCar
 	wheels
-Algorithm starts at: 01.26.2024  13.52.03 PM
-Positive individual <kb:east1> not found in the provided ontology. 
-	Program exiting...
-Program ends at: 01.26.2024  13.52.03 PM
-Program duration: 0.298 sec
+Algorithm starts at: 01.26.2024  19.29.36 PM

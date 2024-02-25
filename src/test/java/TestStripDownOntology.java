@@ -98,9 +98,9 @@ public class TestStripDownOntology {
     }
 
 
-    private static String inputOntoPath = "/Users/ecii/ecii/ecii/src/test/resources/expr_types/strip_down_test/prune_test.owl";
-    private static String outputOntoPath = "/Users/ecii/ecii/ecii/src/test/resources/expr_types/strip_down_test/prune_test_pruned1.owl";
-    private static String entityCsvFilePath = "/Users/ecii/ecii/ecii/src/test/resources/expr_types/strip_down_test/prune_test_entities1.csv";
+    private static String inputOntoPath = "/src/test/resources/expr_types/strip_down_test/prune_test.owl";
+    private static String outputOntoPath = "/src/test/resources/expr_types/strip_down_test/prune_test_pruned1.owl";
+    private static String entityCsvFilePath = "/src/test/resources/expr_types/strip_down_test/prune_test_entities1.csv";
 
     public static void main(String[] args) {
 

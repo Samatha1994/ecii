@@ -1,5 +1,5 @@
 Program started.............
-Program starts at: 01.26.2024  12.39.31 PM
+Program starts at: 01.31.2024  00.49.48 AM
 Working with confFile: induction_test_2_null_error.config
 
 User defined parameters:
@@ -25,13 +25,13 @@ negIndivs from conf:
 objProps from conf:
 	imageContains
 	__%!empty%!__
-Algorithm starts at: 01.26.2024  12.39.32 PM
+Algorithm starts at: 01.31.2024  00.49.48 AM
 Total positive types (direct+indirect) found using all objectProperty: 4
 Total negative types (direct+indirect) found using all objectProperty: 2
 
-Algorithm ends at: 01.26.2024  12.39.32 PM
+Algorithm ends at: 01.31.2024  00.49.49 AM
 
-Algorithm duration: 0.499 sec
+Algorithm duration: 0.691 sec
 
 ####################Solutions (sorted by Precision + Recall + Coverage)####################:
 solution 1: (:Human)
@@ -96,5 +96,5 @@ Total solutions found: 9
 Result saved at: \Users\ecii\ecii\ecii\src\test\resources\expr_types\induction_m_test/induction_test_2_null_error_results_ecii_V2.txt
 
 Program finished.
-Program ends at: 01.26.2024  12.39.32 PM
-Program duration: 0.513 sec
+Program ends at: 01.31.2024  00.49.49 AM
+Program duration: 0.706 sec

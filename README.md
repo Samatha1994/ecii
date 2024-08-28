@@ -2,11 +2,11 @@
 
 **Required Inputs:**
 
-config_files/neuron_.config    (Path: /homes/samatha94/ExAI_inputs_and_outputs/Stage1_Results/config_files)
+1) config_files/neuron_.config    (Path: /homes/samatha94/ExAI_inputs_and_outputs/Stage1_Results/config_files)
 
 **Expected Outputs:** 
 
-config_files/	neuron_<neuron_id>_results_ecii_V2.txt    (Path: /homes/samatha94/ExAI_inputs_and_outputs/Stage1_Results/config_files)
+1) config_files/	neuron_<neuron_id>_results_ecii_V2.txt    (Path: /homes/samatha94/ExAI_inputs_and_outputs/Stage1_Results/config_files)
 
 
 

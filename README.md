@@ -4,14 +4,14 @@
 
 1) config_files/neuron_<neuron_id>.config
 
- _  (Path: /homes/samatha94/ExAI_inputs_and_outputs/Stage1_Results/config_files)_
+ (_Path: /homes/samatha94/ExAI_inputs_and_outputs/Stage1_Results/config_files_)
    These config files have been produced as a result of Stage 1.
 
 **Expected Outputs:** 
 
 1) config_files/	neuron_<neuron_id>_results_ecii_V2.txt
 
- _  (Path: /homes/samatha94/ExAI_inputs_and_outputs/Stage1_Results/config_files)_
+ (_Path: /homes/samatha94/ExAI_inputs_and_outputs/Stage1_Results/config_files_)
 
 
 

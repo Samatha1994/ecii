@@ -15,6 +15,7 @@
     (_Path: /homes/samatha94/ExAI_inputs_and_outputs/Stage1_Results/config_files_)
 
 
+#Steps to Run the Script on BeoCat:
 
 **Bash file name:** job_stage2.sh
 

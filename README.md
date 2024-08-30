@@ -8,6 +8,16 @@
    
      These config files have been produced as a result of Stage 1.
 
+# Steps to run this script local system on IntelliJ:
+
+To run concept induction sript: 
+
+-e config_file_name.config
+
+Example config file: https://github.com/Samatha1994/ExAI_related_documents/blob/main/set6-initial_score_hybrid.config
+
+Example command: -e set6-initial_score_hybrid.config
+
 **Expected Outputs:** 
 
 1) config_files/	neuron_<neuron_id>_results_ecii_V2.txt
@@ -15,7 +25,7 @@
     (_Path: /homes/samatha94/ExAI_inputs_and_outputs/Stage1_Results/config_files_)
 
 
-#Steps to Run the Script on BeoCat:
+# Steps to Run the Script on BeoCat:
 
 **Bash file name:** job_stage2.sh
 

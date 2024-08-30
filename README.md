@@ -27,9 +27,17 @@
 3) Maven build:
    mvn clean install dependency:copy-dependencies
 
-4) Command to run concept induction sript:
+4) Command to run concept induction sript on terminal:
+
+        cd C:\Users\ecii\ecii\ecii
+        
+        java -ea -Xmx30000m -Xss128m -cp "target\classes;target\dependency\*" org.dase.ecii.Main -e src\test\resources\expr_types\trains_owl.config
+
+  OR
   
-   -e config_file_name.config
+  Command to run concept induction sript by editing main--> configuration files:
+  
+     -e config_file_name.config
 
      Screenshot of execution details: https://github.com/Samatha1994/ExAI_related_documents/blob/main/How%20to%20execute%20ECII%20concept%20induction%20script%20on%20IntellliJ.png
    

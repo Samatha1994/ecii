@@ -44,6 +44,7 @@ Screenshot of execution details: https://github.com/Samatha1994/ExAI_related_doc
 Example config file: https://github.com/Samatha1994/ExAI_related_documents/blob/main/set6-initial_score_hybrid.config
      
 Example command: 
+
      -e set6-initial_score_hybrid.config
 
 

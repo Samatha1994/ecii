@@ -14,7 +14,7 @@
 
     (_Path: /homes/samatha94/ExAI_inputs_and_outputs/Stage1_Results/config_files_)
 
-# Steps to run this script on local system on IntelliJ:
+**Steps to run this script on local system on IntelliJ:**
 
 1) Install Java:
    
@@ -40,7 +40,7 @@
 
 
 
-# Steps to Run the Script on BeoCat:
+**Steps to Run the Script on BeoCat:**
 
 **Bash file name:** job_stage2.sh
 

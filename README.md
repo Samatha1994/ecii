@@ -14,7 +14,7 @@
 
     (_Path: /homes/samatha94/ExAI_inputs_and_outputs/Stage1_Results/config_files_)
 
-# Steps to run this script local system on IntelliJ:
+# Steps to run this script on local system on IntelliJ:
 
 1) Install Java:
    
@@ -31,6 +31,8 @@
   
    -e config_file_name.config
 
+     Screenshot of execution details: https://github.com/Samatha1994/ExAI_related_documents/blob/main/How%20to%20execute%20ECII%20concept%20induction%20script%20on%20IntellliJ.png
+   
      Example config file: https://github.com/Samatha1994/ExAI_related_documents/blob/main/set6-initial_score_hybrid.config
      
      Example command: -e set6-initial_score_hybrid.config
